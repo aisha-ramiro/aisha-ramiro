@@ -1,6 +1,6 @@
 ### Oi, eu sou a Aisha :)
 <div>
-<p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, pela Universidade de Araraquara - UNIARA </p>
+<p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, pela FATEC de Taquaritinga </p>
 </div>
 <div style="display: inline_block"><br>
    <a href="https://www.instagram.com/aisharamiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
