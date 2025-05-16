@@ -3,7 +3,6 @@
 ## Oi! Eu sou a Aisha :)
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taquaritinga  
-🚀 Em constante evolução, explorando **Python**, **Machine Learning**, **Inteligência Artificial** e ferramentas modernas de desenvolvimento  
 
 <div style="display: inline_block">
   <a href="https://www.instagram.com/aisharamiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -17,9 +16,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taquaritinga
 
 ## 💡 Atualmente estudando:
 
-- 📊 **Pré-processamento de dados com Python**  
+- 📊 **Processamento de dados com Python**  
 - 🧠 **Machine Learning e Inteligência Artificial**  
-- 🧪 Boas práticas de versionamento com **Git e GitHub**
 
 ---
 
