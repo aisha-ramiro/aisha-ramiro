@@ -1,3 +1,5 @@
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+
 ## Oi! Eu sou a Aisha :)
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taquaritinga  
@@ -35,4 +37,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taquaritinga
 </div>
 
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
