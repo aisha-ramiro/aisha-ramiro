@@ -34,12 +34,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Taquaritinga
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
----
-
-## 📂 Meus repositórios em destaque
-
-🔬 [Preprocessing com Python: Vinho Dataset + Visualização com Streamlit](https://github.com/seu-usuario/preprocessing-winedataset)  
-📋 [Extensão de Navegador para Geração de Prompts (HCI Project - Promptica)](https://github.com/seu-usuario/promptica)  
-📌 Repositório de Estudos em **IA & NLP** em andamento
-
----
